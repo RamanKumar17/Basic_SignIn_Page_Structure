@@ -44,6 +44,9 @@ button{
     color: white;
     border: none;
 }
+button:hover{
+    cursor:pointer;
+}
 span > p{
     margin-top: 0.2rem;
 }
